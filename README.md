@@ -1,19 +1,14 @@
-# Serhii Burtsev
-
-## Java Developer
+## Serhii Burtsev, Software Developer
 
 - Location: Kharkiv, Ukraine (Remote)
 - Email: n0976190100@gmail.com
 - Telegram: @a_teapot418
 - GitHub:
 
----
-
 ## Summary
 
 6+ years in the game, Java Developer with diverse experience in production of modern enterprise web applications. Specialized in Java technologies: Java SE, Java EE, Spring Framework ecosystem. Proficient in front-end stack technologies—JavaScript and JS-based frameworks. Engaged in various application development stages: testing, deployment, performance monitoring, troubleshooting, and bug fixing. Experienced in collaborating within distributed teams through code reviews, scrum meetings, and retrospectives. A self-organized, result-oriented team-player, adaptable to changing requirements, and a fast learner.
 
----
 
 ## Skills
 
@@ -34,7 +29,7 @@
     - Web Servers: Tomcat, Nginx
     - LLMs and Agentic AI: Ollama, LangChain (Python, Java), Spring AI
 
----
+
 
 ## Professional Experience
 
@@ -43,7 +38,7 @@
 - Company: Aimprosoft
 - Position: Java Developer
 
----
+
 
 ## Major Projects
 
@@ -102,7 +97,7 @@ Municipal Services Digital Platform for several territorial entities in Romania.
     - Integration with mobile app (Flutter) with concerns to Liferay-platform specifics: authentication and authorization, data flow based on REST API
 - Technologies: Java, Spring Boot, OSGi, Liferay DXP, PostgreSQL, JavaScript, React
 
----
+
 
 ## Education
 
