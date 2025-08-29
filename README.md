@@ -56,7 +56,7 @@ E-commerce storefront, Administration site and Order Tracking System for a promo
     - Improving Site Performance metrics.
     - Optimizing legacy code of Payment Gateway part of application.
     - Augmenting troubleshooting capabilities of Order Tracking System based on Alfresco by introducing descriptive system-level logging.
-- Technologies: Java 8, Spring, Alfresco, Oracle Endeca XM, MySQL, JavaScript, AngularJS
+- Technologies: Java 8, Spring, Alfresco, Oracle Endeca XM, MySQL, JavaScript, AngularJS.
 
 #### Apparel Retail Infrastructure
 
@@ -67,21 +67,21 @@ Restful services (BFF) for data aggregation and delivery for country-wide retail
     - Contributed to the DAO system and developed Spring MVC controllers.
     - Managed Spring IoC configuration to reduce code redundancy.
 - Challenges:
-    - Application-level logging service
-    - ELK stack integration
-- Technologies: Java 17, Spring Boot, Spring REST, ELK stack
+    - Application-level logging service.
+    - Google Cloud logging monitoring integration, discussed with the team and developed logging conventions and standardize the messages' content, Policies for user and sensitive information. In result, that improved the troubleshooting process and logs traversing tremendously
+- Technologies: Java 17, Spring Boot, Spring REST, Google Cloud.
 
 #### Liferay Portal Initializer
 
-Tool for Liferay DXP developers. Aims to automate boot-strapping process of portal-based sites and applications. Helps eliminate substantial amount of "manual labor" by describing infrastructure and content in a single XML descriptor file.
+Tool for Liferay DXP developers. Aims to automate a bootstrapping process of portal-based sites and applications. Helps eliminate substantial amount of "manual labor" by describing infrastructure and content in a single XML descriptor file.
 
 - Role: Java Developer
 - Responsibilities:
     - Contributed to the DAO system and developed Spring MVC controllers.
     - Managed Spring IoC configuration to reduce code redundancy.
 - Challenges:
-    - Application Audit Service implementation
-- Technologies: Java, Spring Boot, OSGi, Liferay DXP, XML
+    - Application Audit Service implementation.
+- Technologies: Java, Spring Boot, OSGi, Liferay DXP, XML.
 
 #### Municipal Portals
 
@@ -92,10 +92,11 @@ Municipal Services Digital Platform for several territorial entities in Romania.
     - Contributed to the DAO system and developed Spring MVC controllers.
     - Managed Spring IoC configuration to reduce code redundancy.
 - Challenges:
-    - Site Accessibility audit and improvements
-    - Application Audit Service implementation
-    - Integration with mobile app (Flutter) with concerns to Liferay-platform specifics: authentication and authorization, data flow based on REST API
-- Technologies: Java, Spring Boot, OSGi, Liferay DXP, PostgreSQL, JavaScript, React
+    - Researched and applied to the project following platform-specific features: Liferay Forms usage for content interdependent form-fields, RESTful api for custom entities, following "api first" openapi spec approach, documented it in Confluence.
+    - Site Accessibility audit and improvements.
+    - Application Audit Service implementation.
+    - Integration with the mobile app (Flutter) with concerns to Liferay-platform specifics: OAuth2 JWT authentication and authorization, data flow based on REST API
+- Technologies: Java, Spring Boot, OSGi, Liferay DXP, PostgreSQL, JavaScript, React.
 
 
 
