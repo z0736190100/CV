@@ -42,9 +42,9 @@
 
 ## Major Projects
 
-#### Epromos
+#### Promotional Products Store
 
-E-commerce storefront, Administration site and Order Tracking System for a promotional services company, designed to streamline the business process of creating and managing promotional products.
+USA-based E-commerce storefront, Administration site and Order Tracking System for a promotional services company, designed to streamline the business process of creating and managing promotional products.
 
 - Role: Java Developer
 - Responsibilities:
