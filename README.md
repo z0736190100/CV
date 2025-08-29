@@ -54,8 +54,9 @@ USA-based E-commerce storefront, Administration site and Order Tracking System f
     - Integrated third-party services such as Google Analytics and customer support tools.
 - Challenges:
     - Improving Site Performance metrics.
-    - Optimizing legacy code of Payment Gateway part of application.
+    - Optimizing the legacy code of Payment Gateway part of the application.
     - Augmenting troubleshooting capabilities of Order Tracking System based on Alfresco by introducing descriptive system-level logging.
+    - Stage and production deployment. Improvements, bash scripts for automatization and documenting the process.
 - Technologies: Java 8, Spring, Alfresco, Oracle Endeca XM, MySQL, JavaScript, AngularJS.
 
 #### Apparel Retail Infrastructure
