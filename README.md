@@ -7,7 +7,7 @@
 
 ## Summary
 
-6+ years in the game, Java Developer with diverse experience in production of modern enterprise web applications. Specialized in Java technologies: Java SE, Java EE, Spring Framework ecosystem. Proficient in front-end stack technologies—JavaScript and JS-based frameworks. Engaged in various application development stages: testing, deployment, performance monitoring, troubleshooting, and bug fixing. Experienced in collaborating within distributed teams through code reviews, scrum meetings, and retrospectives. A self-organized, result-oriented team-player, adaptable to changing requirements, and a fast learner.
+7+ years in the game, Java Developer with diverse experience in production of modern enterprise web applications. Specialized in Java technologies: Java SE, Java EE, Spring Framework ecosystem. Proficient in front-end stack technologies—JavaScript and JS-based frameworks. Engaged in various application development stages: testing, deployment, performance monitoring, troubleshooting, and bug fixing. Experienced in collaborating within distributed teams through code reviews, scrum meetings, and retrospectives. A self-organized, result-oriented team-player, adaptable to changing requirements, and a fast learner.
 
 
 ## Skills
@@ -17,17 +17,19 @@
     - Spring Framework — Advanced
     - Hibernate / JPA / JDBC — Advanced
     - JavaScript (ES5, ES6) — Advanced
+    - TS - Advanced
+    - Python (in application to ML/LLM development) - Mid
 
 
 - Other Skills
-    - Back-End: J2EE/JSP/Servlets, Portlets (JSR-168/286), Spring, Spring Security, Spring REST, Spring Boot
-    - Front-End: HTML/CSS, AngularJS, Angular 2+, TypeScript, React, Redux
+    - Back-End: J2EE/JSP/Servlets, Portlets (JSR-168/286), Spring, Spring Security, Spring REST, Spring Boot etc.
+    - Front-End: HTML/CSS, Angular, TypeScript, React, Redux
     - Databases: MySQL, PostgreSQL, MongoDB
     - Cloud Platforms: Firebase, Supabase, Vercel, AWS
     - Tools: IntelliJ IDEA, Cursor, Git, Maven, Gradle, Docker, Jenkins, Postman
     - Platforms: OSGi, AWS, Liferay, Alfresco, Linux
     - Web Servers: Tomcat, Nginx
-    - LLMs and Agentic AI: Ollama, LangChain (Python, Java), Spring AI
+    - LLMs and Agentic AI: Claude family, OpenCode, Pi, Ollama, LangChain family, Neo4j (as graph-RAG), Spring AI, PyTorch etc.
 
 
 
@@ -38,6 +40,9 @@
 - Company: Aimprosoft
 - Position: Java Developer
 
+#### 2024-2026
+- Company: self-employed
+- Position: ML/LLM research and application projects
 
 
 ## Major Projects
@@ -72,18 +77,6 @@ Restful services (BFF) for data aggregation and delivery for country-wide retail
     - Google Cloud logging monitoring integration, discussed with the team and developed logging conventions and standardize the messages' content, Policies for user and sensitive information. In result, that improved the troubleshooting process and logs traversing tremendously
 - Technologies: Java 17, Spring Boot, Spring REST, Google Cloud.
 
-#### Liferay Portal Initializer
-
-Tool for Liferay DXP developers. Aims to automate a bootstrapping process of portal-based sites and applications. Helps eliminate substantial amount of "manual labor" by describing infrastructure and content in a single XML descriptor file.
-
-- Role: Java Developer
-- Responsibilities:
-    - Contributed to the DAO system and developed Spring MVC controllers.
-    - Managed Spring IoC configuration to reduce code redundancy.
-- Challenges:
-    - Application Audit Service implementation.
-- Technologies: Java, Spring Boot, OSGi, Liferay DXP, XML.
-
 #### Municipal Portals
 
 Municipal Services Digital Platform for several territorial entities in Romania.
@@ -99,6 +92,24 @@ Municipal Services Digital Platform for several territorial entities in Romania.
     - Integration with the mobile app (Flutter) with concerns to Liferay-platform specifics: OAuth2 JWT authentication and authorization, data flow based on REST API
 - Technologies: Java, Spring Boot, OSGi, Liferay DXP, PostgreSQL, JavaScript, React.
 
+#### ARKNESS – Knowledge Graph + LLM Framework for Manufacturing Process Planning
+
+Knowledge Graph + RAG platform for CNC process planning that automatically transforms technical manufacturing documentation into structured engineering knowledge and uses graph-grounded LLM reasoning to deliver explainable, traceable, and numerically accurate recommendations while supporting fully on-premise deployment.
+
+- Role: Lead
+- Responsibilities:
+    - Designed and developed a hybrid AI system combining Knowledge Graphs (KGs), Retrieval-Augmented Generation (RAG), and Large Language Models (LLMs) to support CNC machining and manufacturing process-planning decisions.
+- Challenges:
+    - Built an automated pipeline for extracting structured manufacturing knowledge from heterogeneous technical sources, including machining handbooks, vendor documentation, engineering specifications, and CNC programming artifacts.
+    - Implemented zero-shot knowledge graph construction, converting unstructured engineering documents into multi-relational graphs without manual annotation.
+    - Developed graph-based retrieval and context-injection mechanisms that provide LLMs with evidence-backed manufacturing knowledge, improving numerical accuracy and explainability.
+    - Created a model-agnostic architecture capable of integrating both cloud-hosted and on-premise LLMs, enabling deployment in environments with strict intellectual-property and data-sovereignty requirements.
+    - Engineered provenance-aware response generation, allowing recommendations and process-planning decisions to be traced back to source knowledge and supporting engineering auditability.
+    - Reduced hallucination rates and improved factual consistency through graph-grounded reasoning and targeted retrieval strategies.
+    - Evaluated the system on manufacturing-domain question sets covering tooling selection, cutting parameters, machining operations, threading, tolerancing, and process optimization.
+    - Demonstrated that lightweight open-source language models can achieve performance comparable to significantly larger proprietary models when augmented with domain-specific knowledge graphs.
+    - Applied technologies including Knowledge Graphs, Graph RAG, Vector Search, LLM Orchestration, Information Extraction, Entity/Relation Extraction,         - Manufacturing Informatics, CNC Process Planning, and Explainable AI.
+- Technologies: Java, Python, LLMs, RAG, Graph RAG, Knowledge Graphs, Neo4j/Graph Databases, Vector Search, Information Extraction, Prompt Engineering, Manufacturing AI, Explainable AI, Retrieval Systems, NLP.
 
 
 ## Education
