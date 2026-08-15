@@ -41,7 +41,7 @@
 - Position: Java Developer
 
 #### 2024-2026
-- Company: self-employed
+- Company: self-employed, non-profit
 - Position: ML/LLM research and application projects
 
 
